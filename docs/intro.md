@@ -2,17 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# CUCM TOPICS | Common Issues 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**This wiki has been created as an Internal Project to list common issues we face on our daily basis in CUCM**.
 
-## Getting Started
+### Get started by selecting the topic you would like to review.
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
+- Phone Registration
+- Database Replication Issues
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
