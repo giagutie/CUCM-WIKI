@@ -7,9 +7,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CUCM WIKI',
-  tagline: 'morro es caga',
-  url: 'https://giagutie/giagutie.github.io',
-  baseUrl: '/giagutie.github.io/',
+  tagline: 'Dinosaurus are cool',
+  url: 'https//github.com',
+  baseUrl: '/CUCM-WIKI/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,15 +17,13 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'giagutie', // Usually your GitHub org/user name.
-  projectName: 'giagutie.github.io', // Usually your repo name.
-  deploymentBranch: "gh-pages",
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  projectName: 'CUCM-WIKI', // Usually your repo name.
+  
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
 
   presets: [
     [
