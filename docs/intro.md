@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# CUCM TOPICS | Common Issues 
+# CUCM topics | Common Issues 
 
-**This wiki has been created as an Internal Project to list common issues we face on our daily basis in CUCM**.
+### Get started 
 
-### Get started by selecting the topic you would like to review.
+In the left panel, you will see all the topics. 
 
 - Phone Registration
 - Database Replication Issues
@@ -42,3 +42,6 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+
+
+**This wiki has been created as an Internal Project to list common issues we face on our daily basis in CUCM**.
